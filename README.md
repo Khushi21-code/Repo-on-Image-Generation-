@@ -10,7 +10,7 @@ This repository contains a **custom ComfyUI workflow** for **Stable Diffusion v1
 ### 2️⃣ Add Workflow to ComfyUI  
 
 1. **Download** `AI_image_gen.json` from this repository.  
-2. **Open ComfyUI** (run `run.bat` on Windows or `python main.py` on Linux/Mac).  
+2. **Open ComfyUI** (run `run_cpu.bat` on Windows or `python main.py` on Linux/Mac).  
 3. **Drag & Drop** `AI_image_gen.json` into the ComfyUI window.  
 4. Click **"Load Workflow"** and select `AI_image_gen.json`.  
 5. Check the nodes in the workflow and ensure all dependencies are installed.  
